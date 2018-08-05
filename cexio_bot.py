@@ -2,9 +2,9 @@ import cexapi
 import json
 import datetime
 
-username = 'up110333889'
-api_key = 'fEfTQtwWsWCCJWi636POfXiKRZA'
-api_secret = '5u89fdRgY0Eyx8sd1Az5lmpl2I'
+username = 'user'
+api_key = 'key'
+api_secret = 'secret'
 
 couple = 'XRP/BTC'
 
